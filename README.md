@@ -6,7 +6,7 @@ The goal of the analysis is to identify factors associated with 5-year mortality
 
 ---
 
-## Dataset
+## Dataset - `death_prediction_synthetic.csv`
 - Number of observations: 12,439  
 - Number of features: 45  
   - 26 numerical variables  
@@ -52,5 +52,5 @@ A detailed written report is provided in `EDA1.pdf`.
 ### Run in Google Colab (Recommended)
 1. Open Google Colab
 2. Upload `EDA_project.ipynb`
-3. Upload the dataset file
+3. Upload the dataset file `death_prediction_synthetic.csv`
 4. Run all cells sequentially
