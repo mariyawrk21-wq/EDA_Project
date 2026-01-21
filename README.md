@@ -4,7 +4,6 @@
 This project focuses on exploratory data analysis (EDA) and data preprocessing performed on a synthetic medical dataset (`death_prediction_synthetic`).  
 The goal of the analysis is to identify factors associated with 5-year mortality and to prepare a clean, well-structured dataset for further modeling.
 
----
 
 ## Dataset
 - Number of observations: 12,439  
@@ -13,7 +12,6 @@ The goal of the analysis is to identify factors associated with 5-year mortality
   - 19 categorical variables  
 - Target variable: `dead_5y` (mortality after 5 years)
 
----
 
 ## Analysis Workflow
 The project is structured as follows:
@@ -45,9 +43,8 @@ The project is structured as follows:
 
 A detailed written report is provided in `EDA1.pdf`.
 
----
 
-## How to Run the Project
+## How to Run the code
 
 ### Run in Google Colab (Recommended)
 1. Open Google Colab
