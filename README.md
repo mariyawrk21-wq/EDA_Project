@@ -44,7 +44,7 @@ The project is structured as follows:
 A detailed written report is provided in `EDA1.pdf`.
 
 
-## How to Run the code
+## How to Run
 
 ### Run in Google Colab (Recommended)
 1. Open Google Colab
