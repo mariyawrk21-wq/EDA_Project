@@ -6,7 +6,7 @@ The goal of the analysis is to identify factors associated with 5-year mortality
 
 ---
 
-## Dataset - `death_prediction_synthetic.csv`
+## Dataset
 - Number of observations: 12,439  
 - Number of features: 45  
   - 26 numerical variables  
